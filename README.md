@@ -1,7 +1,7 @@
 # This Game
 
 额, 事情是这样的, 在这片大陆上, 住着 Thiss 家族. 这个家族有16个成员, 他们是  
-this thiS thIs thIS tHis tHiS tHIs tHIS tHis this ThiS ThIs ThIS THis THiS THIs THIS THis  
+this thiS thIs thIS tHis tHiS tHIs tHIS ThiS ThIs ThIS THis THiS THIs THIS THis    
 一般而言, 你可以和他们玩玩游戏, 很简单, 说 "this game" 就好  
 
 ## 环境
