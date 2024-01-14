@@ -1,13 +1,1 @@
-package org.jawbts.thisgame.client;
-
-import net.fabricmc.api.ClientModInitializer;
-
-public class ThisgameClient implements ClientModInitializer {
-    /**
-     * Runs the mod initializer on the client environment.
-     */
-    @Override
-    public void onInitializeClient() {
-
-    }
-}
+package org.jawbts.thisgame.client;import net.fabricmc.api.ClientModInitializer;public class ThisgameClient implements ClientModInitializer { public void onInitializeClient() {}}
