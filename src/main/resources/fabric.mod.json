@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "thisgame",
+  "version": "${version}",
+  "name": "thisgame",
+  "description": "'this' game",
+  "authors": [
+    "WinsreWu"
+  ],
+  "contact": {
+    "repo": "https://github.com/winsrewu/thisgame"
+  },
+  "license": "MIT",
+  "icon": "assets/thisgame/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.jawbts.thisgame.client.ThisgameClient"
+    ],
+    "main": [
+      "org.jawbts.thisgame.Thisgame"
+    ]
+  },
+  "mixins": [
+    "thisgame.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
