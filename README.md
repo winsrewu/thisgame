@@ -14,3 +14,5 @@ minecraft fabric 1.17.1 需要fabric api 建议使用最新版本
 
 ## 彩蛋
 拿着打火石潜行右键一些生物...有意想不到的效果
+
+awa
